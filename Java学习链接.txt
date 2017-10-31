@@ -1,15 +1,15 @@
-OAÏµÍ³£º
+OAç³»ç»Ÿï¼š
 http://oa.cait.com/
 
-SVNÂ·¾¶
+SVNè·¯å¾„
 http://192.168.4.123/svn/CCCUS/LabDataAccess
 chenpei  123
 
-json ½âÎö¹¤¾ß
+json è§£æå·¥å…·
 http://www.bejson.com/jsonviewernew/
 
 
-Êı¾İ²éÑ¯ÓÅ»¯£º
+æ•°æ®æŸ¥è¯¢ä¼˜åŒ–ï¼š
 http://www.oschina.net/news/74787/how-the-data-on-the-second-search
 
 /**
@@ -21,30 +21,30 @@ http://www.oschina.net/news/74787/how-the-data-on-the-second-search
 *@date ${date}${time}
 */
 
-easyUIÖĞÎÄAPI
+easyUIä¸­æ–‡API
 http://www.jeasyui.net/
 
-PDF×ªÍ¼Æ¬
+PDFè½¬å›¾ç‰‡
 http://www.cnblogs.com/pcheng/p/5704470.html
-PDF×ªÍ¼Æ¬ÓĞjar°ü
+PDFè½¬å›¾ç‰‡æœ‰jaråŒ…
 http://blog.csdn.net/emoven/article/details/52954898
 
-SVNÌá½»Á÷³Ì
+SVNæäº¤æµç¨‹
 http://blog.csdn.net/daijin888888/article/details/50252121
 
-tomcat³¬Ê±½âÎÊÌâ
+tomcatè¶…æ—¶è§£é—®é¢˜
 http://blog.csdn.net/xiaole0313/article/details/47016425
 
-mysqlÆô¶¯
+mysqlå¯åŠ¨
 net start mysql
 
-jar°üÏÂÔØ
+jaråŒ…ä¸‹è½½
 http://www.manyjar.com/
 
-²éÑ¯oracel·şÎñÃû
+æŸ¥è¯¢oracelæœåŠ¡å
 http://bbs.csdn.net/topics/390736747/
 
-¶àÏß³Ì£º
+å¤šçº¿ç¨‹ï¼š
 http://www.cnblogs.com/wxd0108/p/5479442.html
 
 
@@ -53,7 +53,7 @@ select * from TBZ_IPN_LAB_BILL t1
  and t3.LAB_CODE = T1.INSP_LAB_CODE) and T1.SED_EXA_SHET_STATE = 1 
 
 
-webserviceÂ·¾¶£º
+webserviceè·¯å¾„ï¼š
 http://jingyan.baidu.com/article/e4511cf33c0a992b845eaf98.html
 http://www.blogjava.net/tianchijiaozi/archive/2013/03/15/396452.html
 http://blog.csdn.net/u013341688/article/details/50906844
@@ -62,93 +62,93 @@ http://www.cnblogs.com/xwdreamer/archive/2011/12/07/2296914.html
 
 http://192.168.238.253:8080/axis2/services/WebserviceInterface?wsdl?method=queryResult
 
-Oracle in exist²éÑ¯×¢Òâµã
+Oracle in existæŸ¥è¯¢æ³¨æ„ç‚¹
 http://www.blogjava.net/zhangwei217245/archive/2010/01/25/310708.html
 
-eaayuiÊ±¼ä
+eaayuiæ—¶é—´
 http://www.cnblogs.com/xmfdsh/p/4062491.html
 http://blog.csdn.net/kang89/article/details/9301549
 http://www.cnblogs.com/mr-wuxiansheng/p/6216956.html
-XstreamÊ¹ÓÃ·½·¨
+Xstreamä½¿ç”¨æ–¹æ³•
 http://blog.csdn.net/scyatcs/article/details/12625099
-getByteÓÃ·¨
+getByteç”¨æ³•
 http://blog.csdn.net/zheng0518/article/details/11532815
-Í¼±êËÑË÷
+å›¾æ ‡æœç´¢
 http://www.iconpng.com/search/icon=%E7%BB%9F%E8%AE%A1/4
 
-powerdesigner 16.5 ÆÆ½â
+powerdesigner 16.5 ç ´è§£
 http://jingyan.baidu.com/article/1974b289a836ccf4b1f77436.html
 
-¶àÏß³ÌÓ¦ÓÃÊµÀı
+å¤šçº¿ç¨‹åº”ç”¨å®ä¾‹
 http://blog.csdn.net/sunxianghuang/article/details/51966118
 
-¶àÏß³Ì½éÉÜ
+å¤šçº¿ç¨‹ä»‹ç»
 http://www.jianshu.com/p/40d4c7aebd66
 http://www.cnblogs.com/GarfieldEr007/p/5746362.html
-Ïß³Ì³Ø
+çº¿ç¨‹æ± 
 http://www.cnblogs.com/yezhenhan/archive/2012/01/09/2317636.html
-¶àÏß³Ì²¢·¢±à³Ì
+å¤šçº¿ç¨‹å¹¶å‘ç¼–ç¨‹
 http://blog.csdn.net/escaflone/article/details/10418651
 
-oracle´æÔÚ¸üĞÂÓï¾ä
+oracleå­˜åœ¨æ›´æ–°è¯­å¥
 http://www.cnblogs.com/xcj26/p/3452628.html
 
-EntityManager³£ÓÃ·½·¨
+EntityManagerå¸¸ç”¨æ–¹æ³•
 http://blog.csdn.net/vicky_fish/article/details/7361883
-EntityManagerÅúÁ¿¸üĞÂÊı¾İ
+EntityManageræ‰¹é‡æ›´æ–°æ•°æ®
 http://blog.csdn.net/u012843873/article/details/70755712
 
-¶àÏß³Ì±à³ÌÌâ
+å¤šçº¿ç¨‹ç¼–ç¨‹é¢˜
 http://blog.csdn.net/u014039577/article/details/48623721
-//¶àÏß³ÌÊÛÆ±
+//å¤šçº¿ç¨‹å”®ç¥¨
 http://zhangjunhd.blog.51cto.com/113473/70767/
-//¶àÏß³Ì¹êÍÃÈüÅÜ
+//å¤šçº¿ç¨‹é¾Ÿå…”èµ›è·‘
 http://www.cnblogs.com/Mus-Li/p/6752280.html
-//¶àÏß³ÌÄ£ÄâÉú²úÏû·ÑÕßÄ£ĞÍ
+//å¤šçº¿ç¨‹æ¨¡æ‹Ÿç”Ÿäº§æ¶ˆè´¹è€…æ¨¡å‹
 http://www.cnblogs.com/linjiqin/p/3217050.html
 http://www.cnblogs.com/dennisit/archive/2013/02/25/2931573.html
-//×èÈû¶ÓÁĞ
+//é˜»å¡é˜Ÿåˆ—
 http://wsmajunfeng.iteye.com/blog/1629354
-ÉîÈëÆÊÎövolatile¹Ø¼ü×Ö
+æ·±å…¥å‰–ævolatileå…³é”®å­—
 http://www.importnew.com/18126.html
-¶àÏß³ÌÎÊÌâ»ã×Ü
+å¤šçº¿ç¨‹é—®é¢˜æ±‡æ€»
 http://www.cnblogs.com/xrq730/p/5060921.html
-¶àÏß³ÌÅÀ³æ
+å¤šçº¿ç¨‹çˆ¬è™«
 http://blog.csdn.net/haitao111313/article/details/7526313
-¶àÏß³ÌÒøĞĞ³öÄÉÔ±
+å¤šçº¿ç¨‹é“¶è¡Œå‡ºçº³å‘˜
 http://www.cnblogs.com/zhuawang/archive/2014/06/14/3788227.html
 
-SSMÕûºÏ
+SSMæ•´åˆ
 http://blog.csdn.net/gebitan505/article/details/44455235
 
-base64ÊµÏÖÎÄ¼şÓë×Ö·û´®Ö®¼äµÄ×ª»»(×ª)
+base64å®ç°æ–‡ä»¶ä¸å­—ç¬¦ä¸²ä¹‹é—´çš„è½¬æ¢(è½¬)
 http://blog.csdn.net/smile725775/article/details/8463472
 
-ÕıÔò±í´ïÊ½
+æ­£åˆ™è¡¨è¾¾å¼
 http://www.cnblogs.com/China3S/archive/2013/11/30/3451971.html
 
-Ä½¿ÎÍø
+æ…•è¯¾ç½‘
 http://www.imooc.com/course/list
 
-//¶àÏß³Ì¹¤¾ßÊµÀı
+//å¤šçº¿ç¨‹å·¥å…·å®ä¾‹
 http://blog.csdn.net/zengquan2014/article/details/49982659
 
-¿ÏµÂ»ùÂóµ±ÀÍ¶àÏß³ÌÄ£ĞÍ
+è‚¯å¾·åŸºéº¦å½“åŠ³å¤šçº¿ç¨‹æ¨¡å‹
 http://www.cnblogs.com/chentingk/p/6497107.html
 
 
-java¶àÏß³Ì¶ÁÈ¡ÎÄ¼ş
+javaå¤šçº¿ç¨‹è¯»å–æ–‡ä»¶
 http://blog.csdn.net/vstar283551454/article/details/17362709
 
-ÉĞ¹ÛÍø
+å°šè§‚ç½‘
 http://java.uplookingios.com/?SEM=BD-PC&JH=AC-BJ&KEYID=15967
-´«ÖÇ²¥¿Í¶àÏß³ÌÁ·Ï°
+ä¼ æ™ºæ’­å®¢å¤šçº¿ç¨‹ç»ƒä¹ 
 http://blog.csdn.net/everyonetimeismoney/article/details/27962149
 
-java¾­µäÊé¼®
+javaç»å…¸ä¹¦ç±
 http://developer.51cto.com/art/201512/503095.htm
 
-ÀûÓÃ·´Éä»úÖÆ¸øjavabean¸³Öµ
+åˆ©ç”¨åå°„æœºåˆ¶ç»™javabeanèµ‹å€¼
 http://www.cnblogs.com/ruiati/p/3406619.html
 http://www.cnblogs.com/mytzq/p/7205921.html?utm_source=itdadao&utm_medium=referral
 http://qiaolevip.iteye.com/blog/1739176
@@ -157,53 +157,53 @@ http://qiaolevip.iteye.com/blog/1739176
 
 http://blog.csdn.net/u010837612/article/details/47666255
 
-jar°üÏÂÔØ
+jaråŒ…ä¸‹è½½
 http://www.docjar.com
 
 
-¹ØÓÚ¡°Could not open ServletContext resource [/WEB-INF/applicationContext.xml]¡±½â¾ö·½°¸
+å…³äºâ€œCould not open ServletContext resource [/WEB-INF/applicationContext.xml]â€è§£å†³æ–¹æ¡ˆ
 http://blog.csdn.net/wlwlwlwl015/article/details/48134763
 
-SpringMVCÊÓÍ¼
+SpringMVCè§†å›¾
 http://blog.csdn.net/z69183787/article/details/41658489
 
-cron±í´ïÊ½
+cronè¡¨è¾¾å¼
 http://www.cnblogs.com/xiandedanteng/p/3678650.html
 
-java²¢·¢ÊµÀı
+javaå¹¶å‘å®ä¾‹
 http://blog.csdn.net/a236209186/article/details/51726350
 
 
 APP
 https://content.lvhuadai.com/p2p_lcxx_20160513274935.html
 
-Ê·ÉÏ×îÍêÕûhadoopÑ§Ï°ÊÓÆµ·ÖÏí
+å²ä¸Šæœ€å®Œæ•´hadoopå­¦ä¹ è§†é¢‘åˆ†äº«
 http://bbs.51cto.com/thread-1139339-1-1.html
 https://www.iteblog.com/archives/1150.html
 
 
-ÍøÒ×¶àÏß³Ì
+ç½‘æ˜“å¤šçº¿ç¨‹
 http://www.cnblogs.com/cielosun/p/6659678.html
 
-gitÊ¹ÓÃ
+gitä½¿ç”¨
 https://guides.github.com/activities/hello-world/
 
-git´úÂëÂ·¾¶
+gitä»£ç è·¯å¾„
 https://github.com/huaweicode/javaCode.git
 
-githubÊ¹ÓÃ½Ì³Ì
+githubä½¿ç”¨æ•™ç¨‹
 http://www.runoob.com/w3cnote/git-guide.html
 http://blog.csdn.net/javaandroid730/article/details/53522872
 
-gitÃüÁîĞĞ£º
+gitå‘½ä»¤è¡Œï¼š
 http://www.jianshu.com/p/6ae3697a7c93
 
 
-Ïß³Ì³Ø
+çº¿ç¨‹æ± 
 http://blog.csdn.net/wangwenhui11/article/details/6760474
 http://cuisuqiang.iteye.com/blog/2019372
 
-Java Excelµ¼Èë
+Java Excelå¯¼å…¥
 http://blog.csdn.net/u013871100/article/details/52901996
 
 jpa API
@@ -211,9 +211,16 @@ https://www.w3cschool.cn/java/jpa-entitymanager.html
 
 insert into (ITEM_PARA_STD_ID,ID) select SYS_GUID(),ITEM_PARA_STD_ID from TBZ_CTN_CTLITEM_PARA_STD_TEMP
 insert into TBZ_CTN_CTLITEM_PARA_STD_HIS(ITEM_PARA_STD_ID,ID) select SYS_GUID(),ITEM_PARA_STD_ID from TBZ_CTN_CTLITEM_PARA_STD_TEMP
-easyui È«²¿Í¼±ê
+easyui å…¨éƒ¨å›¾æ ‡
 http://blog.csdn.net/metal1/article/details/30456283
 
 
-hadoopÑ§Ï°Â·ÏßÍ¼
+hadoopå­¦ä¹ è·¯çº¿å›¾
 https://www.zhihu.com/question/19795366
+
+åäº”å¥—å¤§å‹é¡¹ç›®è§†é¢‘
+
+http://www.pan66.com/hot/oqen0yb52.html
+
+ä¹¦ç±åˆ†äº«ç½‘ç«™
+http://www.java1234.com/a/javabook/database/2017/0421/7979.html
