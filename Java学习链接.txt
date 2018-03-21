@@ -1,3 +1,10 @@
+OA系统：
+http://oa.cait.com/
+
+SVN路径
+http://192.168.4.123/svn/CCCUS/LabDataAccess
+chenpei  123
+
 json 解析工具
 http://www.bejson.com/jsonviewernew/
 
@@ -202,8 +209,7 @@ http://blog.csdn.net/u013871100/article/details/52901996
 jpa API
 https://www.w3cschool.cn/java/jpa-entitymanager.html
 
-insert into (ITEM_PARA_STD_ID,ID) select SYS_GUID(),ITEM_PARA_STD_ID from TBZ_CTN_CTLITEM_PARA_STD_TEMP
-insert into TBZ_CTN_CTLITEM_PARA_STD_HIS(ITEM_PARA_STD_ID,ID) select SYS_GUID(),ITEM_PARA_STD_ID from TBZ_CTN_CTLITEM_PARA_STD_TEMP
+
 easyui 全部图标
 http://blog.csdn.net/metal1/article/details/30456283
 
@@ -217,5 +223,101 @@ http://www.pan66.com/hot/oqen0yb52.html
 
 书籍分享网站
 http://www.java1234.com/a/javabook/database/2017/0421/7979.html
+
 整合SSM
 http://blog.csdn.net/qq598535550/article/details/51703190
+
+百度网盘
+http://www.57fx.com/search/
+
+
+maven web项目缺少Java目录和test目录
+http://www.cnblogs.com/mgqy/articles/6529209.html
+
+
+SSM个人博客项目
+http://blog.csdn.net/xp541130126/article/details/70163081
+
+
+
+Cannot cast org.springframework.web.SpringServletContainerInitializer异常
+http://powertech.iteye.com/blog/2234181
+
+Mybatis 高级结果映射 ResultMap Association Collection
+http://blog.csdn.net/wxwzy738/article/details/24742495
+
+Struts2 include标签
+http://www.yiibai.com/struts_2/struts_include_tag.html
+java经典算法
+http://blog.csdn.net/l1028386804/article/details/51097928/
+
+可编辑的 HTML JavaScript 表格控件 DataGrid
+http://www.wangchao.net.cn/bbsdetail_36182.html
+
+js 操作table
+http://qfdyitian.iteye.com/blog/1609316
+
+JavaScript对table的操作
+
+http://djytotti.iteye.com/blog/1132590
+
+可编辑的 HTML JavaScri-1
+http://3y.uu456.com/ss_gkvp3qscxnes00w02002c02502400w02202p03a02p02b02r03602x03403800wqy0kl8jonfli00w01w02p03802p_1.html
+
+
+ECharts框架API
+http://echarts.baidu.com/echarts2/doc/doc.html#Bar
+http://www.cnblogs.com/kk073000/p/5613950.html
+http://blog.csdn.net/wu920604/article/details/53332520
+
+Maven仓库jar包下载
+http://maven.outofmemory.cn/com.belerweb/qq-connect/1.0.1/
+
+牛客网
+https://www.nowcoder.com/ta/review-java
+
+SpringJDBC配置
+https://www.cnblogs.com/yw0219/p/6020361.html
+
+maven库地址
+http://nexus.biierg.com/#nexus-search;quick~com.oracle
+file:///C:/Users/admin/Documents/Tencent%20Files/2811385339/FileRecv/pg-core/index.html
+
+mybatis找不到方法异常
+http://blog.csdn.net/z69183787/article/details/48933481
+
+mybatis内部类映射写法
+http://blog.csdn.net/jiangyu1013/article/details/71123514
+
+mybatis一对多查询
+http://www.cnblogs.com/selene/p/4627446.html
+mybatis父子表批量插入
+http://www.cnblogs.com/lijiale/p/6140486.html
+
+web项目无法使用tomcat
+http://blog.csdn.net/young_kim1/article/details/49331337
+
+ctrl+Enter 报错项目->Deployment Assembly->Add->Java buid path entries->Next->Maven Dependencies
+
+
+zkCli.sh
+ls /broadcast-services
+get /broadcast-services/chen/mdbsDeviceService
+
+Mybatis配置文件
+http://limingnihao.iteye.com/blog/1060764
+
+深入浅出parallelStream
+http://blog.csdn.net/u011001723/article/details/52794455
+
+Java Lambda表达式入门
+http://blog.csdn.net/renfufei/article/details/24600507/
+
+Java 8 中的 Streams API 详解
+https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/
+使用Jedis操作redis
+https://www.cnblogs.com/relucent/p/4203190.html
+
+
+马士兵QQ
+2404826094
